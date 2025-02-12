@@ -1,0 +1,13 @@
+.env
+.env.example
+.env.local
+.env.staging
+
+.zshrc
+
+docker-compose.yml
+
+node_modules/
+dist/
+
+/.idea
